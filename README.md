@@ -2,7 +2,7 @@
 
 ## 1. Tests
 
-- [Interactive](/doc/parallelized-coin-transfer-interactive.md)
+- [Interactive](/doc/parallelized-coin-transfer-Interactive.md)
 - [Benchmarking](/doc/parallelized-coin-transfer-benchmark.md)
 
 ## 2. Using Pre-generated Transactions
